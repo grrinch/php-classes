@@ -6,7 +6,7 @@ PHP Youtube Embed class: Generate HTML to embed a YouTube video in a page
 ##Author
 Original author: Juan Chaves
 
-Little enhancements: Rad Paluszak AKA gRRinch(admin@dobrowolnie.pl)
+Little enhancements: Rad Paluszak AKA gRRinch (radoslaw.paluszak@gmail.com)
 
 ##Description
 This class can generate HTML to embed a YouTube video in a page.
